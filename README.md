@@ -35,6 +35,7 @@ The dashboard provides insights into video performance, engagement, and trends.
 
 ## 🛠 Tools Used
 
+* Python for Cleaning
 * Tableau Public
 * Excel / CSV
 
